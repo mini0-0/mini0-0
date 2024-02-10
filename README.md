@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://rose-brown.tistory.com/7>5주차 - Airflow Deepdive_v2</a></br><a href=https://rose-brown.tistory.com/5>3주차 - Docker 설치</a></br><a href=https://rose-brown.tistory.com/4>3주차 - ETL_Airflow 소개</a></br><a href=https://rose-brown.tistory.com/3>2주차 - SQL for Data Engineers</a></br><a href=https://rose-brown.tistory.com/2>1주차 - 데이터 팀의 역할</a></br>
+<a href=https://rose-brown.tistory.com/18>Django 개발환경 구성하기</a></br><a href=https://rose-brown.tistory.com/17>회원가입 화면 구현</a></br><a href=https://rose-brown.tistory.com/16>서블릿과 JSP</a></br><a href=https://rose-brown.tistory.com/15>관심사의 분리, MVC 패턴</a></br><a href=https://rose-brown.tistory.com/14>텍스트와 바이너리,MIME,Base64</a></br>
