@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://rose-brown.tistory.com/18>Django 개발환경 구성하기</a></br><a href=https://rose-brown.tistory.com/17>회원가입 화면 구현</a></br><a href=https://rose-brown.tistory.com/16>서블릿과 JSP</a></br><a href=https://rose-brown.tistory.com/15>관심사의 분리, MVC 패턴</a></br><a href=https://rose-brown.tistory.com/14>텍스트와 바이너리,MIME,Base64</a></br>
+<a href=https://rose-brown.tistory.com/20>Model(모델)</a></br><a href=https://rose-brown.tistory.com/19>새로운 Django 프로젝트</a></br><a href=https://rose-brown.tistory.com/18>Django 개발환경 구성하기</a></br><a href=https://rose-brown.tistory.com/17>회원가입 화면 구현</a></br><a href=https://rose-brown.tistory.com/16>서블릿과 JSP</a></br>
