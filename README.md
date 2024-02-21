@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://rose-brown.tistory.com/26>[프로그래머스] 피자 나눠먹기(2)</a></br><a href=https://rose-brown.tistory.com/25>[프로그래머스] 내적</a></br><a href=https://rose-brown.tistory.com/24>[프로그래머스] 음양 더하기</a></br><a href=https://rose-brown.tistory.com/23>[백준] 10870번_피보나치 수 5</a></br><a href=https://rose-brown.tistory.com/22>유저 프로필</a></br>
+<a href=https://rose-brown.tistory.com/30>[프로그래머스] 소수 찾기</a></br><a href=https://rose-brown.tistory.com/29>[프로그래머스] 시저암호</a></br><a href=https://rose-brown.tistory.com/28>[프로그래머스] 숫자 비교하기</a></br><a href=https://rose-brown.tistory.com/27>[프로그래머스] 과일 장수</a></br><a href=https://rose-brown.tistory.com/26>[프로그래머스] 피자 나눠먹기(2)</a></br>
