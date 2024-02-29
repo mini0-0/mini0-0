@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://rose-brown.tistory.com/30>[프로그래머스] 소수 찾기</a></br><a href=https://rose-brown.tistory.com/29>[프로그래머스] 시저암호</a></br><a href=https://rose-brown.tistory.com/28>[프로그래머스] 숫자 비교하기</a></br><a href=https://rose-brown.tistory.com/27>[프로그래머스] 과일 장수</a></br><a href=https://rose-brown.tistory.com/26>[프로그래머스] 피자 나눠먹기(2)</a></br>
+<a href=https://rose-brown.tistory.com/35>Pandas</a></br><a href=https://rose-brown.tistory.com/34>Numpy</a></br><a href=https://rose-brown.tistory.com/33>[프로그래머스] 로그인 성공?</a></br><a href=https://rose-brown.tistory.com/32>[프로그래머스] 이진수 더하기</a></br><a href=https://rose-brown.tistory.com/31>[프로그래머스] k의 개수</a></br>
