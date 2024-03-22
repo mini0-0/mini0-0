@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://rose-brown.tistory.com/42>[KT 에이블스쿨 5기] 조금 늦은 KT 에이블스쿨 5기 합격후기</a></br><a href=https://rose-brown.tistory.com/41>[ML] 앙상블(Ensemble)</a></br><a href=https://rose-brown.tistory.com/40>[ML] Hyperparameter(하이퍼파라미터)</a></br><a href=https://rose-brown.tistory.com/39>[ML] 머신러닝 기초 알고리즘</a></br><a href=https://rose-brown.tistory.com/38>[ML] 성능 평가</a></br>
+<a href=https://rose-brown.tistory.com/43>[프로그래머스] 오픈채팅방</a></br><a href=https://rose-brown.tistory.com/42>[KT 에이블스쿨 5기] 조금 늦은 KT 에이블스쿨 5기 AI트랙 합격후기</a></br><a href=https://rose-brown.tistory.com/41>[ML] 앙상블(Ensemble)</a></br><a href=https://rose-brown.tistory.com/40>[ML] Hyperparameter(하이퍼파라미터)</a></br><a href=https://rose-brown.tistory.com/39>[ML] 머신러닝 기초 알고리즘</a></br>
