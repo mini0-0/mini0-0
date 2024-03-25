@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://rose-brown.tistory.com/45>[KT 에이블스쿨 5기] AI트랙 2차 미니 프로젝트 후기</a></br><a href=https://rose-brown.tistory.com/44>[KT 에이블스쿨 5기] AI트랙 1차 미니 프로젝트 후기</a></br><a href=https://rose-brown.tistory.com/43>[프로그래머스] 오픈채팅방</a></br><a href=https://rose-brown.tistory.com/42>[KT 에이블스쿨 5기] 조금 늦은 KT 에이블스쿨 5기 AI트랙 합격후기</a></br><a href=https://rose-brown.tistory.com/41>[ML] 앙상블(Ensemble)</a></br>
+<a href=https://rose-brown.tistory.com/46>[Web] 웹크롤링</a></br><a href=https://rose-brown.tistory.com/45>[KT 에이블스쿨 5기] AI트랙 2차 미니 프로젝트 후기</a></br><a href=https://rose-brown.tistory.com/44>[KT 에이블스쿨 5기] AI트랙 1차 미니 프로젝트 후기</a></br><a href=https://rose-brown.tistory.com/43>[프로그래머스] 오픈채팅방</a></br><a href=https://rose-brown.tistory.com/42>[KT 에이블스쿨 5기] 조금 늦은 KT 에이블스쿨 5기 AI트랙 합격후기</a></br>
