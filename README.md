@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://rose-brown.tistory.com/46>[Web] 웹크롤링</a></br><a href=https://rose-brown.tistory.com/45>[KT 에이블스쿨 5기] AI트랙 2차 미니 프로젝트 후기</a></br><a href=https://rose-brown.tistory.com/44>[KT 에이블스쿨 5기] AI트랙 1차 미니 프로젝트 후기</a></br><a href=https://rose-brown.tistory.com/43>[프로그래머스] 오픈채팅방</a></br><a href=https://rose-brown.tistory.com/42>[KT 에이블스쿨 5기] 조금 늦은 KT 에이블스쿨 5기 AI트랙 합격후기</a></br>
+<a href=https://rose-brown.tistory.com/51>[KT 에이블스쿨 5기] AI트랙 3차 미니프로젝트 후기(2)</a></br><a href=https://rose-brown.tistory.com/50>[KT 에이블스쿨 5기] AI트랙 3차 미니프로젝트 후기(1)</a></br><a href=https://rose-brown.tistory.com/49>[딥러닝] 객체 감지(Object Detection)</a></br><a href=https://rose-brown.tistory.com/48>[딥러닝] CNN 전이학습(Transfer Learning) &amp; 파인튜닝(Fine-Tuning)</a></br><a href=https://rose-brown.tistory.com/47>[딥러닝] CNN</a></br>
