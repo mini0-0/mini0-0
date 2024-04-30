@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://rose-brown.tistory.com/53>[KT 에이블스쿨 5기] AI트랙 4차 미니프로젝트 후기(2)</a></br><a href=https://rose-brown.tistory.com/52>[KT 에이블스쿨 5기] AI트랙 4차 미니프로젝트 후기 (1)</a></br><a href=https://rose-brown.tistory.com/51>[KT 에이블스쿨 5기] AI트랙 3차 미니프로젝트 후기(2)</a></br><a href=https://rose-brown.tistory.com/50>[KT 에이블스쿨 5기] AI트랙 3차 미니프로젝트 후기(1)</a></br><a href=https://rose-brown.tistory.com/49>[딥러닝] 객체 감지(Object Detection)</a></br>
+<a href=https://rose-brown.tistory.com/54>[KT 에이블스쿨5기] AI트랙 5차 미니프로젝트 후기</a></br><a href=https://rose-brown.tistory.com/53>[KT 에이블스쿨 5기] AI트랙 4차 미니프로젝트 후기(2)</a></br><a href=https://rose-brown.tistory.com/52>[KT 에이블스쿨 5기] AI트랙 4차 미니프로젝트 후기 (1)</a></br><a href=https://rose-brown.tistory.com/51>[KT 에이블스쿨 5기] AI트랙 3차 미니프로젝트 후기(2)</a></br><a href=https://rose-brown.tistory.com/50>[KT 에이블스쿨 5기] AI트랙 3차 미니프로젝트 후기(1)</a></br>
