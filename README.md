@@ -1,5 +1,7 @@
 # This is Mini's GitHub👋
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nalala8200)](https://solved.ac/nalala8200)
+
  <a href="https://github.com/anuraghazra/github-readme-stats">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mini0-0&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
  </a>    
@@ -7,21 +9,6 @@
  <a href="https://github.com/anuraghazra/github-readme-stats">
    <img src="https://github-readme-stats.vercel.app/api?username=mini0-0&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
  </a>
-
-## 💻 Tech Stack 💻
-<div>
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
- <img src="https://img.shields.io/badge/Java-6DB33F?style=for-the-badge&logo=openjdk&logoColor=white" />
- <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
- <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-</div>
-<div>
- <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
- <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white" />
- <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-
-</div>
-
 
 
 ## 📕 Latest Blog Posts
