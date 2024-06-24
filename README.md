@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://rose-brown.tistory.com/58>[KT 에이블스쿨5기] KT 에이블스쿨 6기 모집</a></br><a href=https://rose-brown.tistory.com/57>[KT 에이블스쿨5기] AI트랙 1차 AIVLE Day</a></br><a href=https://rose-brown.tistory.com/56>[KT 에이블스쿨5기] AI트랙 6차 미니프로젝트 후기(2)</a></br><a href=https://rose-brown.tistory.com/55>[KT 에이블스쿨5기] AI트랙 6차 미니프로젝트 후기(1)</a></br><a href=https://rose-brown.tistory.com/54>[KT 에이블스쿨5기] AI트랙 5차 미니프로젝트 후기</a></br>
+<a href=https://rose-brown.tistory.com/61>[KT 에이블스쿨5기] AI트랙 2차 AIVLE DAY</a></br><a href=https://rose-brown.tistory.com/60>[KT 에이블스쿨5기] AI트랙 7차 미니프로젝트 후기(2)</a></br><a href=https://rose-brown.tistory.com/59>[KT 에이블스쿨5기] AI트랙 7차 미니프로젝트 후기(1)</a></br><a href=https://rose-brown.tistory.com/58>[KT 에이블스쿨5기] KT 에이블스쿨 6기 모집</a></br><a href=https://rose-brown.tistory.com/57>[KT 에이블스쿨5기] AI트랙 1차 AIVLE Day</a></br>
