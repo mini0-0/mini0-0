@@ -1,28 +1,28 @@
 # This is Mini's GitHub👋
 
 ## 🖥️ Tech Stacks 🖥️
-### Tools
- <div>
+<h3 align="center">Tools</h3>
+ <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"> 
  
  </div>
  
- <div>
+ <div align="center">
    <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white">
    <img src="https://img.shields.io/badge/mysql-4479A1?style=fflat-square&logo=mysql&logoColor=white"> 
    <img src="https://img.shields.io/badge/sqlite-003B57?style=fflat-square&logo=sqlite&logoColor=white"> 
    <img src="https://img.shields.io/badge/amazonec2-FF9900.svg?style=flat-square&logo=amazonec2&logoColor=white"/>
  </div>
 
- <div>
+ <div align="center">
    <img src="https://img.shields.io/badge/jupyter-F37626.svg?style=flat-square&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/googlecolab-F9AB00.svg?style=flat-square&logo=googlecolabr&logoColor=white"/>
    <img src="https://img.shields.io/badge/intellijidea-000000.svg?style=flat-square&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/pycharm-000000.svg?style=flat-square&logo=pycharm&logoColor=white"/>
  </div>
 
- <div>
+ <div align="center">
    <img src="https://img.shields.io/badge/pandas-150458.svg?style=flat-square&logo=pandas&logoColor=white"/>
    <img src="https://img.shields.io/badge/numpy-013243.svg?style=flat-square&logo=numpy&logoColor=white"/>
    <img src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=flat-square&logo=scikitlearn&logoColor=white"/>
@@ -30,9 +30,8 @@
   <img src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white"/>
  </div>
 
-
-### Team Tools
-<div>
+<h3 align="center">Team Tools</h3>
+<div align="center">
  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white"/> 
  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/>  
  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/> 
