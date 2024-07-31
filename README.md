@@ -9,17 +9,17 @@
  </div>
  
  <div align="center">
-   <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white">
-   <img src="https://img.shields.io/badge/mysql-4479A1?style=fflat-square&logo=mysql&logoColor=white"> 
-   <img src="https://img.shields.io/badge/sqlite-003B57?style=fflat-square&logo=sqlite&logoColor=white"> 
-   <img src="https://img.shields.io/badge/amazonec2-FF9900.svg?style=flat-square&logo=amazonec2&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
+   <img src="https://img.shields.io/badge/MySql-4479A1?style=fflat-square&logo=mysql&logoColor=white"> 
+   <img src="https://img.shields.io/badge/Sqlite-003B57?style=fflat-square&logo=sqlite&logoColor=white"> 
+   <img src="https://img.shields.io/badge/AmazonEC2-FF9900.svg?style=flat-square&logo=amazonec2&logoColor=white"/>
  </div>
 
  <div align="center">
-   <img src="https://img.shields.io/badge/jupyter-F37626.svg?style=flat-square&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/googlecolab-F9AB00.svg?style=flat-square&logo=googlecolabr&logoColor=white"/>
-   <img src="https://img.shields.io/badge/intellijidea-000000.svg?style=flat-square&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pycharm-000000.svg?style=flat-square&logo=pycharm&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat-square&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GoogleColab-F9AB00.svg?style=flat-square&logo=googlecolabr&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Intellijidea-000000.svg?style=flat-square&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=flat-square&logo=pycharm&logoColor=white"/>
  </div>
 
  <div align="center">
