@@ -6,7 +6,6 @@ import Parser from "rss-parser";
  * @type {string}
  */
 let text = `<h1 align="center"> This is Mini's GitHub👋 </h1>
-# This is Mini's GitHub👋
 
 <h2 align="center"> 🖥️ Tech Stacks 🖥️ </h2>
 <h3 align="center">Tools</h3>
@@ -37,18 +36,13 @@ let text = `<h1 align="center"> This is Mini's GitHub👋 </h1>
    <img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white"/>
  </div>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nalala8200)](https://solved.ac/nalala8200)
-
+ 
 <h3 align="center">Team Tools</h3>
 <div align="center">
  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white"/> 
  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/>  
  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white"/>
- <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mini0-0&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
- </a>    
-
  </div>
 <br>
 
@@ -58,16 +52,13 @@ let text = `<h1 align="center"> This is Mini's GitHub👋 </h1>
  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nalala8200)](https://solved.ac/nalala8200)
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mini0-0&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mini0-0&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=100% />
   </a>    
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=mini0-0&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+    <img src="https://github-readme-stats.vercel.app/api?username=mini0-0&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=100% />
   </a>
 </div>
- <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img src="https://github-readme-stats.vercel.app/api?username=mini0-0&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
- </a>
 
 
 <h2 align="center">  📕 Latest Blog Posts </h2>
