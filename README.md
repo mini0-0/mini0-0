@@ -54,3 +54,7 @@
 </div>
 
 
+<h2 align="center">  📕 Latest Blog Posts </h2>
+<div align="center">
+
+<a href=https://rose-brown.tistory.com/74>[프로그래머스] 오랜 기간 보호한 동물(2)</a></br><a href=https://rose-brown.tistory.com/73>[프로그래머스] 오랜 기간 보호한 동물(1)</a></br><a href=https://rose-brown.tistory.com/72>[프로그래머스] 조건별로 분류하여 주문상태 출력하기</a></br><a href=https://rose-brown.tistory.com/71>[백준] 1377번_버블 소트</a></br><a href=https://rose-brown.tistory.com/70>[백준] 1427번_소트인사이드</a></br>
