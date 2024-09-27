@@ -55,4 +55,4 @@
 <h2 align="center">  📕 Latest Blog Posts </h2>
 <div align="center">
 
-<a href=https://rose-brown.tistory.com/87>[프로그래머스] 식품분류별 가장 비싼 식품의 정보 조회하기</a></br><a href=https://rose-brown.tistory.com/86>[프로그래머스] 5월 식품들의 총매출 조회하기</a></br><a href=https://rose-brown.tistory.com/85>[프로그래머스] 대여 기록이 존재하는 자동차 리스트 구하기</a></br><a href=https://rose-brown.tistory.com/84>[백준] 10989번_수 정렬하기3</a></br><a href=https://rose-brown.tistory.com/83>[백준] 1517번_버블 소트</a></br>
+<a href=https://rose-brown.tistory.com/92>[백준] 1167번_트리의 지름</a></br><a href=https://rose-brown.tistory.com/91>[백준] 2178번_미로 탐색</a></br><a href=https://rose-brown.tistory.com/90>[백준] 13023번_ABCDE</a></br><a href=https://rose-brown.tistory.com/89>[백준] 2023번_신기한 소수</a></br><a href=https://rose-brown.tistory.com/88>[백준] 11724번_연결 요소의 개수</a></br>
