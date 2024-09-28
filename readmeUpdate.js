@@ -11,6 +11,7 @@ let text = `<h1 align="center"> This is Mini's GitHub👋 </h1>
 <h3 align="center">Tools</h3>
  <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-368CCB?style=flat-square&logo=SQL&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"> 
 
  </div>
