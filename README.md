@@ -55,4 +55,4 @@
 <h2 align="center">  📕 Latest Blog Posts </h2>
 <div align="center">
 
-<a href=https://rose-brown.tistory.com/92>[백준] 1167번_트리의 지름</a></br><a href=https://rose-brown.tistory.com/91>[백준] 2178번_미로 탐색</a></br><a href=https://rose-brown.tistory.com/90>[백준] 13023번_ABCDE</a></br><a href=https://rose-brown.tistory.com/89>[백준] 2023번_신기한 소수</a></br><a href=https://rose-brown.tistory.com/88>[백준] 11724번_연결 요소의 개수</a></br>
+<a href=https://rose-brown.tistory.com/97>[프로그래머스] 없어진 기록 찾기</a></br><a href=https://rose-brown.tistory.com/96>[프로그래머스] 즐겨찾기가 가장 많은 식당 정보 출력하기</a></br><a href=https://rose-brown.tistory.com/95>[백준] K번째 수_1300번</a></br><a href=https://rose-brown.tistory.com/94>[백준] 2343번_기타 레슨</a></br><a href=https://rose-brown.tistory.com/93>[백준] 1920번_수 찾기</a></br>
