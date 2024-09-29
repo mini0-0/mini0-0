@@ -40,8 +40,7 @@
  </div>
 <br>
 
-
-<h2 align="center">  📝GitHub Status</h2>
+<h2 align="center"> 📝GitHub Status </h2>
 <div align="center">
 
  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nalala8200)](https://solved.ac/nalala8200)   
@@ -49,9 +48,9 @@
   <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mini0-0&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=mini0-0&theme=tokyonight&show_icons=true" width="42%" />
-</a>
+ <a href="s">
+   <img src="https://github-readme-stats.vercel.app/api?username=mini0-0&theme=tokyonight&show_icons=true" width="42%" />
+ </a>
 </div>
 
 
