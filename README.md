@@ -57,4 +57,4 @@
 <h2 align="center">  📕 Latest Blog Posts </h2>
 <div align="center">
 
-<a href=https://rose-brown.tistory.com/97>[프로그래머스] 없어진 기록 찾기</a></br><a href=https://rose-brown.tistory.com/96>[프로그래머스] 즐겨찾기가 가장 많은 식당 정보 출력하기</a></br><a href=https://rose-brown.tistory.com/95>[백준] K번째 수_1300번</a></br><a href=https://rose-brown.tistory.com/94>[백준] 2343번_기타 레슨</a></br><a href=https://rose-brown.tistory.com/93>[백준] 1920번_수 찾기</a></br>
+<a href=https://rose-brown.tistory.com/102>[백준] 수 묶기_1744번</a></br><a href=https://rose-brown.tistory.com/101>[백준] 카드 정렬하기_1715번</a></br><a href=https://rose-brown.tistory.com/100>[알고리즘] 그리디 알고리즘(Greedy Algorithm)</a></br><a href=https://rose-brown.tistory.com/99>[백준] 동전 0_11047번</a></br><a href=https://rose-brown.tistory.com/98>[알고리즘] 이진 탐색(Binary Search)</a></br>
