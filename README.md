@@ -57,4 +57,4 @@
 <h2 align="center">  📕 Latest Blog Posts </h2>
 <div align="center">
 
-<a href=https://rose-brown.tistory.com/118>[프로그래머스] SQL - 해비 유저가 소유한 장소</a></br><a href=https://rose-brown.tistory.com/117>[프로그래머스] SQL - 조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기</a></br><a href=https://rose-brown.tistory.com/116>[백준] 11689번_GCD(n,k) = 1</a></br><a href=https://rose-brown.tistory.com/115>[알고리즘] 오일러 피 함수(Euler&rsquo;s phi function)</a></br><a href=https://rose-brown.tistory.com/114>[백준] 1016번_제곱 ㄴㄴ 수</a></br>
+<a href=https://rose-brown.tistory.com/124>[프로그래머스] SQL - 업그레이드 할 수 없는 아이템 구하기</a></br><a href=https://rose-brown.tistory.com/123>[프로그래머스] SQL - 특정 조건을 만족하는 물고기별 수와 최대 길이 구하기</a></br><a href=https://rose-brown.tistory.com/122>[프로그래머스] SQL - 대장균들의 자식의 수 구하기</a></br><a href=https://rose-brown.tistory.com/121>[백준] 21568번_Ax+By=C</a></br><a href=https://rose-brown.tistory.com/120>[백준] 1033번_칵테일</a></br>
