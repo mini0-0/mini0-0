@@ -57,4 +57,4 @@
 <h2 align="center">  📕 Latest Blog Posts </h2>
 <div align="center">
 
-<a href=https://rose-brown.tistory.com/128>[백준] 2251번_물통</a></br><a href=https://rose-brown.tistory.com/127>[백준] 1707번_이분 그래프</a></br><a href=https://rose-brown.tistory.com/126>[백준] 1325번_효율적인 해킹</a></br><a href=https://rose-brown.tistory.com/125>[백준] 18352번_특정 거리의 도시 찾기</a></br><a href=https://rose-brown.tistory.com/124>[프로그래머스] SQL - 업그레이드 할 수 없는 아이템 구하기</a></br>
+<a href=https://rose-brown.tistory.com/134>[프로그래머스] SQL - 업그레이드 된 아이템 구하기</a></br><a href=https://rose-brown.tistory.com/133>[프로그래머스] SQL - 물고기 종류 별 대어 찾기</a></br><a href=https://rose-brown.tistory.com/132>[백준] 1043번_거짓말</a></br><a href=https://rose-brown.tistory.com/131>[백준] 1976번_여행 가자</a></br><a href=https://rose-brown.tistory.com/130>[백준] 1717번_집합의 표현</a></br>
