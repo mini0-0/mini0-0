@@ -57,4 +57,4 @@
 <h2 align="center">  📕 Latest Blog Posts </h2>
 <div align="center">
 
-<a href=https://rose-brown.tistory.com/134>[프로그래머스] SQL - 업그레이드 된 아이템 구하기</a></br><a href=https://rose-brown.tistory.com/133>[프로그래머스] SQL - 물고기 종류 별 대어 찾기</a></br><a href=https://rose-brown.tistory.com/132>[백준] 1043번_거짓말</a></br><a href=https://rose-brown.tistory.com/131>[백준] 1976번_여행 가자</a></br><a href=https://rose-brown.tistory.com/130>[백준] 1717번_집합의 표현</a></br>
+<a href=https://rose-brown.tistory.com/136>[Java] Java - Enum(열거형)</a></br><a href=https://rose-brown.tistory.com/135>[Python / Java] Map/HashMap과 Dict</a></br><a href=https://rose-brown.tistory.com/134>[프로그래머스] SQL - 업그레이드 된 아이템 구하기</a></br><a href=https://rose-brown.tistory.com/133>[프로그래머스] SQL - 물고기 종류 별 대어 찾기</a></br><a href=https://rose-brown.tistory.com/132>[백준] 1043번_거짓말</a></br>
