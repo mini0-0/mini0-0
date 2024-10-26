@@ -57,4 +57,4 @@
 <h2 align="center">  📕 Latest Blog Posts </h2>
 <div align="center">
 
-<a href=https://rose-brown.tistory.com/140>[백준] 1948번_임계경로</a></br><a href=https://rose-brown.tistory.com/139>[백준] 1516번_게임 개발</a></br><a href=https://rose-brown.tistory.com/138>[백준] 2252번_줄 세우기</a></br><a href=https://rose-brown.tistory.com/137>[알고리즘] 위상 정렬(Topology Sort)</a></br><a href=https://rose-brown.tistory.com/136>[Java] Java - Enum(열거형)</a></br>
+<a href=https://rose-brown.tistory.com/144>[백준] 1854번_K번째 최단경로 찾기</a></br><a href=https://rose-brown.tistory.com/143>[백준] 1916번_최소비용 구하기</a></br><a href=https://rose-brown.tistory.com/142>[백준] 1753번_최단경로</a></br><a href=https://rose-brown.tistory.com/141>[알고리즘] 다익스트라(dijkstra)</a></br><a href=https://rose-brown.tistory.com/140>[백준] 1948번_임계경로</a></br>
