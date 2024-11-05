@@ -57,4 +57,4 @@
 <h2 align="center">  📕 Latest Blog Posts </h2>
 <div align="center">
 
-<a href=https://rose-brown.tistory.com/150>[백준] 11403번_경로 찾기</a></br><a href=https://rose-brown.tistory.com/149>[백준] 11404번_플로이드</a></br><a href=https://rose-brown.tistory.com/148>[알고리즘] 플로이드-워셜(floyd-warshall)</a></br><a href=https://rose-brown.tistory.com/147>[백준] 1219번_오민식의 고민</a></br><a href=https://rose-brown.tistory.com/146>[백준] 11657번_타임머신</a></br>
+<a href=https://rose-brown.tistory.com/154>[백준] 1414번_불우이웃돕기</a></br><a href=https://rose-brown.tistory.com/153>[백준] 17472번_다리 만들기 2</a></br><a href=https://rose-brown.tistory.com/152>[백준] 1197번_최소 스패닝 트리</a></br><a href=https://rose-brown.tistory.com/151>[알고리즘] 최소 신장 트리(MST, Minimum Spanning Tree)</a></br><a href=https://rose-brown.tistory.com/150>[백준] 11403번_경로 찾기</a></br>
