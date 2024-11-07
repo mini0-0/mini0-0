@@ -7,6 +7,7 @@ import Parser from "rss-parser";
  */
 let text = `<h1 align="center"> This is Mini's GitHub👋 </h1>
 
+<div align="center">
 <table>
   <tr>
     <td align="center" valign="top">
@@ -40,11 +41,8 @@ let text = `<h1 align="center"> This is Mini's GitHub👋 </h1>
     </td>
   </tr>
 </table>
+</div>
 
-
-
-
- 
 <br>
 
 <h2 align="center"> 🖥️ Tech Stacks 🖥️ </h2>
@@ -95,7 +93,11 @@ let text = `<h1 align="center"> This is Mini's GitHub👋 </h1>
  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white"/>
  </div>
+
 <br>
+
+
+
 
 <h2 align="center"> 📝GitHub Status </h2>
 <div align="center">
@@ -110,6 +112,7 @@ let text = `<h1 align="center"> This is Mini's GitHub👋 </h1>
  </a>
 </div>
 <br>
+
 
 
 <h2 align="center">  📕 Latest Blog Posts </h2>
