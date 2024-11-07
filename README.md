@@ -1,14 +1,35 @@
 <h1 align="center"> This is Mini's GitHub👋 </h1>
 
+<h2 align="center">  🎓 Univ Major 🎓</h2>
+ <h3 align="center"> Computer Science </h3>
+
+<br>
+
+<h2 align="center">  ✍️ Education ✍️ </h2>
+ <div align="center">
+  
+  |교육|날짜|프로젝트|
+ |------|---|---|
+ |KT 에이블스쿨(AIVLE School) 5기 |2024.02~2024.08|https://github.com/mini0-0/Project_FAST-HRM|
+ |데이터청년캠퍼스|2022.06~2022.08|https://github.com/mini0-0/Project_yeongchayeongcha|
+ |멋쟁이 사자처럼9기|2021.03~2021.08|https://github.com/mini0-0/Project_busker|
+ </div>
+<br>
+
 <h2 align="center"> 🖥️ Tech Stacks 🖥️ </h2>
-<h3 align="center"> Language </h3>
+<h3 align="center"> Tools </h3>
  <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-368CCB?style=flat-square&logo=SQL&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"> 
+ </div> 
+
+  
+ <div align="center">
+   <img src="https://img.shields.io/badge/MySql-4479A1?style=fflat-square&logo=mysql&logoColor=white"> 
+   <img src="https://img.shields.io/badge/Sqlite-003B57?style=fflat-square&logo=sqlite&logoColor=white"> 
  </div>
 
-<h3 align="center"> Web </h3>
  <div align="center">
    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
@@ -17,18 +38,20 @@
    <img src="https://img.shields.io/badge/AmazonEC2-FF9900.svg?style=flat-square&logo=amazonec2&logoColor=white"/>
  </div>
 
-<h3 align="center"> Data </h3>
+<br>
+
   <div align="center">
-   <img src="https://img.shields.io/badge/MySql-4479A1?style=fflat-square&logo=mysql&logoColor=white"> 
-   <img src="https://img.shields.io/badge/Sqlite-003B57?style=fflat-square&logo=sqlite&logoColor=white"> 
    <img src="https://img.shields.io/badge/pandas-150458.svg?style=flat-square&logo=pandas&logoColor=white"/>
    <img src="https://img.shields.io/badge/numpy-013243.svg?style=flat-square&logo=numpy&logoColor=white"/>
    <img src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=flat-square&logo=scikitlearn&logoColor=white"/>
    <img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white"/>
  </div>
+ 
 
-<h3 align="center"> Tools</h3>
+
+<br>
+<h3 align="center"> IDE </h3>
   <div align="center">
    <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat-square&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/GoogleColab-F9AB00.svg?style=flat-square&logo=googlecolabr&logoColor=white"/>
@@ -63,3 +86,5 @@
 <div align="center">
 
 <a href=https://rose-brown.tistory.com/157>[백준] 14425번_문자열 집합</a></br><a href=https://rose-brown.tistory.com/156>[백준] 1068번_트리</a></br><a href=https://rose-brown.tistory.com/155>[백준] 11725번_트리의 부모 찾기</a></br><a href=https://rose-brown.tistory.com/154>[백준] 1414번_불우이웃돕기</a></br><a href=https://rose-brown.tistory.com/153>[백준] 17472번_다리 만들기 2</a></br>
+
+
