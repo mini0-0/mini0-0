@@ -7,15 +7,60 @@ import Parser from "rss-parser";
  */
 let text = `<h1 align="center"> This is Mini's GitHub👋 </h1>
 
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <h2 style="font-size:24px; line-height:1.2em; margin-top: 8px; margin-bottom: 8px;">🎓 Univ Major 🎓</h2>
+      <h3 style="font-size:20px; line-height:1.2em; margin: 0;">Computer Science</h3>
+    </td>
+    <td align="center" valign="top">
+      <h2 style="font-size:24px; line-height:1.2em; margin-top: 8px; margin-bottom: 8px;">✍️ Education ✍️</h2>
+      <table style="font-size:16px; line-height:1.5em;">
+        <tr>
+          <th align="center">교육</th>
+          <th align="center">날짜</th>
+          <th align="center">프로젝트</th>
+        </tr>
+        <tr>
+          <td align="center">KT 에이블스쿨(AIVLE School) 5기</td>
+          <td align="center">2024.02~2024.08</td>
+          <td align="center"><a href="https://github.com/mini0-0/Project_FAST-HRM">FAST-HRM</a></td>
+        </tr>
+        <tr>
+          <td align="center">데이터청년캠퍼스</td>
+          <td align="center">2022.06~2022.08</td>
+          <td align="center"><a href="https://github.com/mini0-0/Project_yeongchayeongcha">영차영차</a></td>
+        </tr>
+        <tr>
+          <td align="center">멋쟁이 사자처럼9기</td>
+          <td align="center">2021.03~2021.08</td>
+          <td align="center"><a href="https://github.com/mini0-0/Project_busker">BUSKER</a></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+
+
+
+ 
+<br>
+
 <h2 align="center"> 🖥️ Tech Stacks 🖥️ </h2>
-<h3 align="center"> Language </h3>
+<h3 align="center"> Tools </h3>
  <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-368CCB?style=flat-square&logo=SQL&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"> 
+ </div> 
+
+  
+ <div align="center">
+   <img src="https://img.shields.io/badge/MySql-4479A1?style=fflat-square&logo=mysql&logoColor=white"> 
+   <img src="https://img.shields.io/badge/Sqlite-003B57?style=fflat-square&logo=sqlite&logoColor=white"> 
  </div>
 
-<h3 align="center"> Web </h3>
  <div align="center">
    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
@@ -24,18 +69,18 @@ let text = `<h1 align="center"> This is Mini's GitHub👋 </h1>
    <img src="https://img.shields.io/badge/AmazonEC2-FF9900.svg?style=flat-square&logo=amazonec2&logoColor=white"/>
  </div>
 
-<h3 align="center"> Data </h3>
   <div align="center">
-   <img src="https://img.shields.io/badge/MySql-4479A1?style=fflat-square&logo=mysql&logoColor=white"> 
-   <img src="https://img.shields.io/badge/Sqlite-003B57?style=fflat-square&logo=sqlite&logoColor=white"> 
    <img src="https://img.shields.io/badge/pandas-150458.svg?style=flat-square&logo=pandas&logoColor=white"/>
    <img src="https://img.shields.io/badge/numpy-013243.svg?style=flat-square&logo=numpy&logoColor=white"/>
    <img src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=flat-square&logo=scikitlearn&logoColor=white"/>
    <img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white"/>
  </div>
+ 
 
-<h3 align="center"> Tools</h3>
+
+<br>
+<h3 align="center"> IDE </h3>
   <div align="center">
    <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat-square&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/GoogleColab-F9AB00.svg?style=flat-square&logo=googlecolabr&logoColor=white"/>
@@ -64,6 +109,7 @@ let text = `<h1 align="center"> This is Mini's GitHub👋 </h1>
    <img src="https://github-readme-stats.vercel.app/api?username=mini0-0&count_private=true&theme=tokyonight&show_icons=true" width="42%" />
  </a>
 </div>
+<br>
 
 
 <h2 align="center">  📕 Latest Blog Posts </h2>
