@@ -1,19 +1,43 @@
 <h1 align="center"> This is Mini's GitHub👋 </h1>
 
-<h2 align="center">  🎓 Univ Major 🎓</h2>
- <h3 align="center"> Computer Science </h3>
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <h2 style="font-size:24px; line-height:1.2em; margin-top: 8px; margin-bottom: 8px;">🎓 Univ Major 🎓</h2>
+      <h3 style="font-size:20px; line-height:1.2em; margin: 0;">Computer Science</h3>
+    </td>
+    <td align="center" valign="top">
+      <h2 style="font-size:24px; line-height:1.2em; margin-top: 8px; margin-bottom: 8px;">✍️ Education ✍️</h2>
+      <table style="font-size:16px; line-height:1.5em;">
+        <tr>
+          <th align="center">교육</th>
+          <th align="center">날짜</th>
+          <th align="center">프로젝트</th>
+        </tr>
+        <tr>
+          <td align="center">KT 에이블스쿨(AIVLE School) 5기</td>
+          <td align="center">2024.02~2024.08</td>
+          <td align="center"><a href="https://github.com/mini0-0/Project_FAST-HRM">FAST-HRM</a></td>
+        </tr>
+        <tr>
+          <td align="center">데이터청년캠퍼스</td>
+          <td align="center">2022.06~2022.08</td>
+          <td align="center"><a href="https://github.com/mini0-0/Project_yeongchayeongcha">영차영차</a></td>
+        </tr>
+        <tr>
+          <td align="center">멋쟁이 사자처럼9기</td>
+          <td align="center">2021.03~2021.08</td>
+          <td align="center"><a href="https://github.com/mini0-0/Project_busker">BUSKER</a></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-<br>
 
-<h2 align="center">  ✍️ Education ✍️ </h2>
- <div align="center">
-  
-  |교육|날짜|프로젝트|
- |------|---|---|
- |KT 에이블스쿨(AIVLE School) 5기 |2024.02~2024.08|https://github.com/mini0-0/Project_FAST-HRM|
- |데이터청년캠퍼스|2022.06~2022.08|https://github.com/mini0-0/Project_yeongchayeongcha|
- |멋쟁이 사자처럼9기|2021.03~2021.08|https://github.com/mini0-0/Project_busker|
- </div>
+
+
+ 
 <br>
 
 <h2 align="center"> 🖥️ Tech Stacks 🖥️ </h2>
@@ -37,8 +61,6 @@
    <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white">
    <img src="https://img.shields.io/badge/AmazonEC2-FF9900.svg?style=flat-square&logo=amazonec2&logoColor=white"/>
  </div>
-
-<br>
 
   <div align="center">
    <img src="https://img.shields.io/badge/pandas-150458.svg?style=flat-square&logo=pandas&logoColor=white"/>
@@ -80,6 +102,7 @@
    <img src="https://github-readme-stats.vercel.app/api?username=mini0-0&count_private=true&theme=tokyonight&show_icons=true" width="42%" />
  </a>
 </div>
+<br>
 
 
 <h2 align="center">  📕 Latest Blog Posts </h2>
