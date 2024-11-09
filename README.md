@@ -111,4 +111,4 @@
 <h2 align="center">  📕 Latest Blog Posts </h2>
 <div align="center">
 
-<a href=https://rose-brown.tistory.com/158>[백준] 1991번_트리 순회</a></br><a href=https://rose-brown.tistory.com/157>[백준] 14425번_문자열 집합</a></br><a href=https://rose-brown.tistory.com/156>[백준] 1068번_트리</a></br><a href=https://rose-brown.tistory.com/155>[백준] 11725번_트리의 부모 찾기</a></br><a href=https://rose-brown.tistory.com/154>[백준] 1414번_불우이웃돕기</a></br>
+<a href=https://rose-brown.tistory.com/161>[백준] 11505번_구간 곱 구하기</a></br><a href=https://rose-brown.tistory.com/160>[백준] 10868번_최소값</a></br><a href=https://rose-brown.tistory.com/159>[백준] 2042번_구간 합 구하기</a></br><a href=https://rose-brown.tistory.com/158>[백준] 1991번_트리 순회</a></br><a href=https://rose-brown.tistory.com/157>[백준] 14425번_문자열 집합</a></br>
