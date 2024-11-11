@@ -111,4 +111,4 @@
 <h2 align="center">  📕 Latest Blog Posts </h2>
 <div align="center">
 
-<a href=https://rose-brown.tistory.com/162>[Spring] Spring MVC</a></br><a href=https://rose-brown.tistory.com/161>[백준] 11505번_구간 곱 구하기</a></br><a href=https://rose-brown.tistory.com/160>[백준] 10868번_최소값</a></br><a href=https://rose-brown.tistory.com/159>[백준] 2042번_구간 합 구하기</a></br><a href=https://rose-brown.tistory.com/158>[백준] 1991번_트리 순회</a></br>
+<a href=https://rose-brown.tistory.com/163>@RequestParam과 @ModelAttribute</a></br><a href=https://rose-brown.tistory.com/162>[Spring] Spring MVC</a></br><a href=https://rose-brown.tistory.com/161>[백준] 11505번_구간 곱 구하기</a></br><a href=https://rose-brown.tistory.com/160>[백준] 10868번_최소값</a></br><a href=https://rose-brown.tistory.com/159>[백준] 2042번_구간 합 구하기</a></br>
