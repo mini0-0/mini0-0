@@ -111,4 +111,4 @@
 <h2 align="center">  📕 Latest Blog Posts </h2>
 <div align="center">
 
-<a href=https://rose-brown.tistory.com/168>[백준] 2775번_부녀회장이 될테야</a></br><a href=https://rose-brown.tistory.com/167>[백준] 11051번_이항 계수2</a></br><a href=https://rose-brown.tistory.com/166>[백준] 11050번_이항 계수1</a></br><a href=https://rose-brown.tistory.com/165>[백준] 11438번_LCA 2</a></br><a href=https://rose-brown.tistory.com/164>[백준] 11437번_LCA</a></br>
+<a href=https://rose-brown.tistory.com/169>[백준] 13251번_조약돌 꺼내기</a></br><a href=https://rose-brown.tistory.com/168>[백준] 2775번_부녀회장이 될테야</a></br><a href=https://rose-brown.tistory.com/167>[백준] 11051번_이항 계수2</a></br><a href=https://rose-brown.tistory.com/166>[백준] 11050번_이항 계수1</a></br><a href=https://rose-brown.tistory.com/165>[백준] 11438번_LCA 2</a></br>
