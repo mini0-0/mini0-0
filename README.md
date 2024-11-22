@@ -111,4 +111,4 @@
 <h2 align="center">  📕 Latest Blog Posts </h2>
 <div align="center">
 
-<a href=https://rose-brown.tistory.com/176>[백준] 11726번_2xN 타일</a></br><a href=https://rose-brown.tistory.com/175>[백준] 2193번_이친수</a></br><a href=https://rose-brown.tistory.com/174>[백준] 14501번_퇴사</a></br><a href=https://rose-brown.tistory.com/173>[백준] 1463번_1로 만들기</a></br><a href=https://rose-brown.tistory.com/172>[백준] 1947번_선물 전달</a></br>
+<a href=https://rose-brown.tistory.com/179>[백준] LCS2_9252번</a></br><a href=https://rose-brown.tistory.com/178>[백준] 13398번_연속합 2</a></br><a href=https://rose-brown.tistory.com/177>[백준] 10844번_쉬운 계단 수</a></br><a href=https://rose-brown.tistory.com/176>[백준] 11726번_2xN 타일</a></br><a href=https://rose-brown.tistory.com/175>[백준] 2193번_이친수</a></br>
