@@ -111,4 +111,4 @@
 <h2 align="center">  📕 Latest Blog Posts </h2>
 <div align="center">
 
-<a href=https://rose-brown.tistory.com/182>[백준] Dance Dance Revolution_2342번</a></br><a href=https://rose-brown.tistory.com/181>[백준] 1328번_고층 빌딩</a></br><a href=https://rose-brown.tistory.com/180>[백준] 가장 큰 정사각형_1915번</a></br><a href=https://rose-brown.tistory.com/179>[백준] LCS2_9252번</a></br><a href=https://rose-brown.tistory.com/178>[백준] 13398번_연속합 2</a></br>
+<a href=https://rose-brown.tistory.com/183>[백준] 1655_가운데를 말해요</a></br><a href=https://rose-brown.tistory.com/182>[백준] Dance Dance Revolution_2342번</a></br><a href=https://rose-brown.tistory.com/181>[백준] 1328번_고층 빌딩</a></br><a href=https://rose-brown.tistory.com/180>[백준] 가장 큰 정사각형_1915번</a></br><a href=https://rose-brown.tistory.com/179>[백준] LCS2_9252번</a></br>
