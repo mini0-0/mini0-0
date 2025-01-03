@@ -111,4 +111,4 @@
 <h2 align="center">  📕 Latest Blog Posts </h2>
 <div align="center">
 
-<a href=https://rose-brown.tistory.com/205>[프로그래머스] 호텔 방 배정</a></br><a href=https://rose-brown.tistory.com/204>[프로그래머스] 모음사전</a></br><a href=https://rose-brown.tistory.com/203>[프로그래머스] 콜라츠 추측</a></br><a href=https://rose-brown.tistory.com/202>[프로그래머스] 문자열 다루기 기본</a></br><a href=https://rose-brown.tistory.com/201>[프로그래머스] 신규 아이디 추천</a></br>
+<a href=https://rose-brown.tistory.com/208>[프로그래머스][Level2] 소수찾기</a></br><a href=https://rose-brown.tistory.com/207>[프로그래머스] 카펫</a></br><a href=https://rose-brown.tistory.com/206>[프로그래머스] 모의고사</a></br><a href=https://rose-brown.tistory.com/205>[프로그래머스] 호텔 방 배정</a></br><a href=https://rose-brown.tistory.com/204>[프로그래머스] 모음사전</a></br>
