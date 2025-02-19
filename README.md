@@ -111,4 +111,4 @@
 <h2 align="center">  📕 Latest Blog Posts </h2>
 <div align="center">
 
-<a href=https://rose-brown.tistory.com/236>[프로그래머스] 가사 검색</a></br><a href=https://rose-brown.tistory.com/235>[알고리즘] 트라이(Trie)</a></br><a href=https://rose-brown.tistory.com/234>[프로그래머스] 섬 연결하기</a></br><a href=https://rose-brown.tistory.com/233>[프로그래머스] 보석쇼핑</a></br><a href=https://rose-brown.tistory.com/232>[프로그래머스] 디스크 컨트롤러</a></br>
+<a href=https://rose-brown.tistory.com/240>[프로그래머스] 줄 서는 방법</a></br><a href=https://rose-brown.tistory.com/239>[프로그래머스] 스킬 트리</a></br><a href=https://rose-brown.tistory.com/238>[프로그래머스] 2개 이하로 다른 비트</a></br><a href=https://rose-brown.tistory.com/237>[프로그래머스] 키패드 누르기</a></br><a href=https://rose-brown.tistory.com/236>[프로그래머스] 가사 검색</a></br>
