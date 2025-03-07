@@ -111,4 +111,4 @@
 <h2 align="center">  📕 Latest Blog Posts </h2>
 <div align="center">
 
-<a href=https://rose-brown.tistory.com/251>[프로그래머스] 단속카메라</a></br><a href=https://rose-brown.tistory.com/250>[프로그래머스] 구명보트</a></br><a href=https://rose-brown.tistory.com/249>[프로그래머스] 큰 수 만들기</a></br><a href=https://rose-brown.tistory.com/248>[프로그래머스] 조이스틱</a></br><a href=https://rose-brown.tistory.com/247>[프로그래머스] 경주로 건설</a></br>
+<a href=https://rose-brown.tistory.com/253>[프로그래머스] k진수에서 소수 개수 구하기</a></br><a href=https://rose-brown.tistory.com/252>[프로그래머스] 신고 결과 받기</a></br><a href=https://rose-brown.tistory.com/251>[프로그래머스] 단속카메라</a></br><a href=https://rose-brown.tistory.com/250>[프로그래머스] 구명보트</a></br><a href=https://rose-brown.tistory.com/249>[프로그래머스] 큰 수 만들기</a></br>
