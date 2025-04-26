@@ -111,4 +111,4 @@
 <h2 align="center">  📕 Latest Blog Posts </h2>
 <div align="center">
 
-<a href=https://rose-brown.tistory.com/271>[프로그래머스] 메뉴 리뉴얼</a></br><a href=https://rose-brown.tistory.com/270>[프로그래머스] 거스름돈</a></br><a href=https://rose-brown.tistory.com/269>[백준] 1669번_제곱수의 합</a></br><a href=https://rose-brown.tistory.com/268>[백준] 9095번_1, 2, 3번 더하기</a></br><a href=https://rose-brown.tistory.com/267>[백준] 1032번_명령 프롬프트</a></br>
+<a href=https://rose-brown.tistory.com/272>[백준] 13414번_수강신청</a></br><a href=https://rose-brown.tistory.com/271>[프로그래머스] 메뉴 리뉴얼</a></br><a href=https://rose-brown.tistory.com/270>[프로그래머스] 거스름돈</a></br><a href=https://rose-brown.tistory.com/269>[백준] 1669번_제곱수의 합</a></br><a href=https://rose-brown.tistory.com/268>[백준] 9095번_1, 2, 3번 더하기</a></br>
