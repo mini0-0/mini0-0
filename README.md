@@ -111,4 +111,4 @@
 <h2 align="center">  📕 Latest Blog Posts </h2>
 <div align="center">
 
-<a href=https://rose-brown.tistory.com/275>[백준] 17413번_단어 뒤집기 2</a></br><a href=https://rose-brown.tistory.com/274>[백준] 2606번_바이러스</a></br><a href=https://rose-brown.tistory.com/273>[백준] 20920번_영단어 암기는 괴로워</a></br><a href=https://rose-brown.tistory.com/272>[백준] 13414번_수강신청</a></br><a href=https://rose-brown.tistory.com/271>[프로그래머스] 메뉴 리뉴얼</a></br>
+<a href=https://rose-brown.tistory.com/276>[백준] 2668번_숫자고르기</a></br><a href=https://rose-brown.tistory.com/275>[백준] 17413번_단어 뒤집기 2</a></br><a href=https://rose-brown.tistory.com/274>[백준] 2606번_바이러스</a></br><a href=https://rose-brown.tistory.com/273>[백준] 20920번_영단어 암기는 괴로워</a></br><a href=https://rose-brown.tistory.com/272>[백준] 13414번_수강신청</a></br>
