@@ -111,4 +111,4 @@
 <h2 align="center">  📕 Latest Blog Posts </h2>
 <div align="center">
 
-<a href=https://rose-brown.tistory.com/279>[프로그래머스] 퍼즐 조각 채우기</a></br><a href=https://rose-brown.tistory.com/278>[백준] 11000번_강의실 배정</a></br><a href=https://rose-brown.tistory.com/277>[백준] 3190번_뱀</a></br><a href=https://rose-brown.tistory.com/276>[백준] 2668번_숫자고르기</a></br><a href=https://rose-brown.tistory.com/275>[백준] 17413번_단어 뒤집기 2</a></br>
+<a href=https://rose-brown.tistory.com/280>[백준] 20056번_마법사 상어와 파이어볼</a></br><a href=https://rose-brown.tistory.com/279>[프로그래머스] 퍼즐 조각 채우기</a></br><a href=https://rose-brown.tistory.com/278>[백준] 11000번_강의실 배정</a></br><a href=https://rose-brown.tistory.com/277>[백준] 3190번_뱀</a></br><a href=https://rose-brown.tistory.com/276>[백준] 2668번_숫자고르기</a></br>
