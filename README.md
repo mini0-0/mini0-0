@@ -111,4 +111,4 @@
 <h2 align="center">  📕 Latest Blog Posts </h2>
 <div align="center">
 
-<a href=https://rose-brown.tistory.com/280>[백준] 20056번_마법사 상어와 파이어볼</a></br><a href=https://rose-brown.tistory.com/279>[프로그래머스] 퍼즐 조각 채우기</a></br><a href=https://rose-brown.tistory.com/278>[백준] 11000번_강의실 배정</a></br><a href=https://rose-brown.tistory.com/277>[백준] 3190번_뱀</a></br><a href=https://rose-brown.tistory.com/276>[백준] 2668번_숫자고르기</a></br>
+<a href=https://rose-brown.tistory.com/282>[백준] 9465번_스티커</a></br><a href=https://rose-brown.tistory.com/281>[프로그래머스] 합승 택시 요금</a></br><a href=https://rose-brown.tistory.com/280>[백준] 20056번_마법사 상어와 파이어볼</a></br><a href=https://rose-brown.tistory.com/279>[프로그래머스] 퍼즐 조각 채우기</a></br><a href=https://rose-brown.tistory.com/278>[백준] 11000번_강의실 배정</a></br>
