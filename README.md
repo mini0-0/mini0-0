@@ -111,4 +111,4 @@
 <h2 align="center">  📕 Latest Blog Posts </h2>
 <div align="center">
 
-<a href=https://rose-brown.tistory.com/290>[프로그래머스] 자동완성</a></br><a href=https://rose-brown.tistory.com/289>[백준] 21610번_마법사와 상어와 비바라기</a></br><a href=https://rose-brown.tistory.com/288>[백준] 17822번_원판 돌리기</a></br><a href=https://rose-brown.tistory.com/287>[프로그래머스][SQL] 언어별 개발자 분류하기</a></br><a href=https://rose-brown.tistory.com/286>[백준] 1956번_운동</a></br>
+<a href=https://rose-brown.tistory.com/292>[프로그래머스] 카드 짝 맞추기</a></br><a href=https://rose-brown.tistory.com/291>[백준] 도시 분할 계획</a></br><a href=https://rose-brown.tistory.com/290>[프로그래머스] 자동완성</a></br><a href=https://rose-brown.tistory.com/289>[백준] 21610번_마법사와 상어와 비바라기</a></br><a href=https://rose-brown.tistory.com/288>[백준] 17822번_원판 돌리기</a></br>
