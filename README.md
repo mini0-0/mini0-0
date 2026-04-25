@@ -111,4 +111,4 @@
 <h2 align="center">  📕 Latest Blog Posts </h2>
 <div align="center">
 
-<a href=https://rose-brown.tistory.com/314>[프로그래머스]PCCP 기출] 붕대 감기</a></br><a href=https://rose-brown.tistory.com/313>[프로그래머스][PCCP 기출] 퍼즐게임 챌린지</a></br><a href=https://rose-brown.tistory.com/312>[프로그래머스] 배달</a></br><a href=https://rose-brown.tistory.com/311>[백준] 1249번_워드똑똑</a></br><a href=https://rose-brown.tistory.com/310>[프로그래머스] 아이템 줍기</a></br>
+<a href=https://rose-brown.tistory.com/316>[프로그래머스][PCCP 기출] 석유 시추</a></br><a href=https://rose-brown.tistory.com/315>[프로그래머스][PCCE 기출] 10번/공원</a></br><a href=https://rose-brown.tistory.com/314>[프로그래머스]PCCP 기출] 붕대 감기</a></br><a href=https://rose-brown.tistory.com/313>[프로그래머스][PCCP 기출] 퍼즐게임 챌린지</a></br><a href=https://rose-brown.tistory.com/312>[프로그래머스] 배달</a></br>
